@@ -1,0 +1,87 @@
+img {
+    display: flex;
+    width: 15vw;
+    height: 15vh;
+    /* margin-left: 45%; */
+    /* margin-right: 50%; */
+  } 
+
+  body{
+    height: 100vh;
+    background: slategrey !important;
+  }
+
+  .aboutMe{
+    font-size: larger;
+    background-color: skyblue;
+    padding: 100px 20px;
+    margin-right: 50vw;
+  }
+
+  .contactMe{
+    padding: 0px 20px;
+    background-color: slateblue;
+    margin-left: 49.3vw;
+  }
+
+  .pageHeader{
+    height: 100vh;
+    color: black;
+    text-align:center;
+  }
+
+  .matrix{
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .navBar{
+    position: fixed;
+    margin:auto;
+    margin-top: 10vh;
+  }
+
+   .thumbnails{
+    margin-right: 50vw;
+  }
+
+  .static{
+    height: 200x;
+    width: 200px;
+  }
+
+  .
+
+  .spotOne{
+    height: 600px;
+    width: 200px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+
+  .CSS{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .APIOne{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .APITwo{
+    font-size: 50px;
+    text-align: center;
+    style: none;
+    text-decoration-color: black;
+  }
+
+  .red{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .blue{
+    font-size: 50px;
+    text-align: center;
+  }
